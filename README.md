@@ -6,7 +6,7 @@ My name is Qianhe 'AL' Lin, I am a fullstack developer and a video installation 
 - 👯 I’m looking to collaborate on game development
 - 📫 How to reach me: alqianhe7@gmail.com bit.ly/AL-QH-linkedin
 
----
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AL-Qianhe-Lin)](https://git.io/streak-stats)
 
