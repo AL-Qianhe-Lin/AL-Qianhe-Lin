@@ -1,4 +1,4 @@
-Hi there 👋
+Hi 👋
 My name is Qianhe 'AL' Lin, I am a fullstack developer and a video installation artist.
 
 - 🔭 I’m currently working on a chess app and an artist website
