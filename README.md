@@ -1,8 +1,11 @@
 Hi 👋
-My name is Qianhe 'AL' Lin, I am a fullstack developer and a video installation artist.
+My name is AL Lin, I am a fullstack developer and a digital artist.
 
+
+- I'm currently learning nextjs
 - 👯 I’m looking to collaborate on game development
-- 📫 How to reach me: alqianhe7@gmail.com bit.ly/AL-QH-linkedin
+- 📫 How to reach me: al.lin79700@gmail.com bit.ly/AL-QH-linkedin
+
 
 
 
